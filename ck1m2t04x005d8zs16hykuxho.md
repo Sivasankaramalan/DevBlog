@@ -2,8 +2,7 @@
 
 ### Appium
 
-> 
-Appium is an Open Source tool to Automate iOS and Android Mobile Applications. In this blog, we will see the setup of Appium for Android Mobile App Automation. 
+>  is an Open Source tool to Automate iOS and Android Mobile Applications. In this blog, we will see the setup of Appium for Android Mobile App Automation. 
 
 ### Android Mobile Settings
 To perform the Automation tests on Android Mobile a few steps to be followed. Below are the steps need to be done on any android mobile before starting the Automation. 
